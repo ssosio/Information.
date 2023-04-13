@@ -61,3 +61,4 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 //information 깃허브 계정 내걸로 변경
+//2번째 깃허브 터미널 사용 계정 변경 테스트
