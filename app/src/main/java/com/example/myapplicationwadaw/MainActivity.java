@@ -60,3 +60,4 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
+//information 깃허브 계정 내걸로 변경
